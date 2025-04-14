@@ -4,7 +4,6 @@ from tkinter import *
 root=Tk()
 root.title("To-Do-List")
 root.geometry("400x600")
-root.resizable(False,False)
 
 task_list=[]
 
